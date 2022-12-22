@@ -9,7 +9,9 @@ cover-img: /assets/img/main.jpg
 
 ## About me
 
-I am Junhyeong Kim, Ph.D. candidate in the KAIST Metaphotonics research lab., advised by prof. Hamza Kurt. My current research interests inclue **intelligent (artificial intelligence assisted) and inverse design of nanophotonic devices**, **photonic neural networks**, **topological photonics**, etc.
+I am Junhyeong Kim, Ph.D. candidate in the KAIST Metaphotonics research lab., advised by prof. Hamza Kurt. My current research interests are **intelligent (artificial intelligence assisted) and inverse design of nanophotonic devices**, **photonic neural networks**, **topological photonics**, etc. 
+
+Thank you for visiting my website! Please feel free to contact me :)
 
 
 ## Contact
