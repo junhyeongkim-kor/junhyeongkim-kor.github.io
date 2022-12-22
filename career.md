@@ -12,10 +12,8 @@ title: Research Career
 ### M.S. in Electrical Engineering, KAIST (2020.03. ~ 2022.02)
 ### Ph. D. in Electrical Engineering, KAIST (2022.03. ~ Present)
 
-* Project (ongoing): _**Multi-cloud service common framework**_
-  * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
-* Project: _**Heterogeneous multi-cloud service brokerage platform**_
-  * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
-* Project: _**Big data-based IT system operation and analysis framework**_
-  * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
-
+# Ongoing projects
+* _**Optical 실시간 지연기 집적화 설계 및 고속 정밀제어 연구**_
+  * Role: design and development of optical true time delay devices (main)
+* _**광위상배열기와 광송수신기의 혁신적 성능 개선을 위한 실리콘 포토닉스 소자들의 인버스 디자인**_
+  * Role: design and development of nanophotonic devices
