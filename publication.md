@@ -3,7 +3,7 @@ layout: page
 title: Publication
 ---
 
-If you want to have access to all of our publications, you can visit [Google Scholar](https://scholar.google.com/citations?user=CqRv3WUAAAAJ&hl=ko)
+If you want to have access to all of our publications (some are skipped in this list), you can visit [Google Scholar](https://scholar.google.com/citations?user=CqRv3WUAAAAJ&hl=ko)
 
 # Research Papers
 
