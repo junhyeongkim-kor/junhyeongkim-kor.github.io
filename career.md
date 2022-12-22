@@ -12,6 +12,9 @@ title: Research Career
 ### M.S. in Electrical Engineering, KAIST (2020.03. ~ 2022.02)
 ### Ph. D. in Electrical Engineering, KAIST (2022.03. ~ Present)
 
+
+
+
 # Ongoing projects
 * _**Optical 실시간 지연기 집적화 설계 및 고속 정밀제어 연구**_
   * Role: design and development of optical true time delay devices (main)
