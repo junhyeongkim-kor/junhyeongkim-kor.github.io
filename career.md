@@ -14,4 +14,4 @@ title: Research Career
 
 # Experiences
 
-### Intern program, SK hynix, South Korea, 2018.12. - 2019. 02.
+### Internship program, SK hynix, South Korea, 2018.12. - 2019. 02.
