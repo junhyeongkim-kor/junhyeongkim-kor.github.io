@@ -13,11 +13,9 @@ author: Junhyeong Kim
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
   Career: "career"
+  Research: "Research"
   Publication: "publication"
-  Blog: "blog"
-  Project: "project"
-  GitHub: "https://github.com/seokho-son"
-  Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
+  Google Scholar: "https://scholar.google.com/citations?user=CqRv3WUAAAAJ&hl=ko"
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
@@ -36,10 +34,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsonkorea@etri.re.kr"
-  facebook: seokho.son.korea
-  github: seokho-son
-  linkedin: seokho-son
+  Affiliation: Mechanical Design Lab. with Advanced Materials, Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST)
+  Email: "wnsgud@kaist.ac.kr"
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
@@ -60,10 +56,10 @@ social-network-links:
 # [수정필요] 연락을 위한 타 사이트 정보 활성화 여부 지정 (필요 없는 경우 주석 처리)
 # --- General options --- #
 # Select which social network share links to show in posts
-share-links-active:
+#share-links-active:
 #  twitter: true
-  facebook: true
-  linkedin: true
+#  facebook: true
+#  linkedin: true
 #  vk: false
 
 # How to display the link to your website in the footer
