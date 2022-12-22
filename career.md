@@ -12,11 +12,6 @@ title: Research Career
 ### M.S. in Electrical Engineering, KAIST (2020.03. ~ 2022.02)
 ### Ph. D. in Electrical Engineering, KAIST (2022.03. ~ Present)
 
+# Experiences
 
-
-
-# Ongoing projects
-### Optical 실시간 지연기 집적화 설계 및 고속 정밀제어 연구
-* Role: design and development of optical true time delay devices (main)
-### 광위상배열기와 광송수신기의 혁신적 성능 개선을 위한 실리콘 포토닉스 소자들의 인버스 디자인
-* Role: design and development of nanophotonic devices
+### Intern program, SK hynix, South Korea, 2018.12. - 2019. 02.
