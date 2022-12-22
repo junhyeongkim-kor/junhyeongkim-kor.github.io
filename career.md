@@ -16,7 +16,7 @@ title: Research Career
 
 
 # Ongoing projects
-* _**Optical 실시간 지연기 집적화 설계 및 고속 정밀제어 연구**_
+### Optical 실시간 지연기 집적화 설계 및 고속 정밀제어 연구
   * Role: design and development of optical true time delay devices (main)
-* _**광위상배열기와 광송수신기의 혁신적 성능 개선을 위한 실리콘 포토닉스 소자들의 인버스 디자인**_
+### 광위상배열기와 광송수신기의 혁신적 성능 개선을 위한 실리콘 포토닉스 소자들의 인버스 디자인
   * Role: design and development of nanophotonic devices
