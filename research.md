@@ -22,5 +22,5 @@ Conventionally, researchers have manually scanned parameter spaces and then opti
 ## Deep learning
 Even though conventional design algorithms are still being used as powerful design tools, they can take an excessive amount of time and iterations when the design problem becomes more complex, and the obtained solution may correspond to a local optimum. These drawbacks have stimulated interest in **artificial neural networks (ANNs)** as an alternative design tool for photonic devices. Currently, I am trying to apply intelligent generative models to generate nanophotonic devices. 
 
-<img src="assets/img/deep.png"  width="360" height="240"/>
+<img src="assets/img/deep.JPG"  width="360" height="240"/>
 
