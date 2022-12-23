@@ -14,7 +14,7 @@ I am Junhyeong Kim, Ph.D. candidate in the KAIST Metaphotonics research lab., ad
 
 Thank you for visiting my website! Please feel free to contact me :)
 
-<img src="assets/img/3.jpg"  width="360" height="280"/><img src="assets/img/4.jpg"  width="320" height="280"/><img src="assets/img/prof2.jpg"  width="300" height="280"/>
+<img src="assets/img/3.jpg"  width="384" height="288"/><img src="assets/img/4.jpg"  width="216" height="288"/><img src="assets/img/prof2.jpg"  width="216" height="288"/>
 
 ## Contact
 
