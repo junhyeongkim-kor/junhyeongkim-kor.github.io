@@ -11,7 +11,7 @@ If you want to have access to all of our publications (some are skipped in this 
 
 #### International
 
-- **Junhyeong Kim**, Neseli Berkay, Jae-Yong Kim, Jinhyeong Yoon, Hyeonho Yoon, Hyo-Hoon Park, and Hamza Kurt, _“Inverse design of on-chip optical response predictor enabled by deep neural network,”_ Optics Express, (December 2022). (IF: 3.833)
+- **Junhyeong Kim**, Neseli Berkay, Jae-Yong Kim, Jinhyeong Yoon, Hyeonho Yoon, Hyo-Hoon Park, and Hamza Kurt, _“Inverse design of on-chip optical response predictor enabled by deep neural network,”_ Optics Express 31(2), 2049-2060 (January 2023). (IF: 3.833)
 
 - **Junhyeong Kim**, Jae-Yong Kim, Jinhyeong Yoon, Hyeonho Yoon, Hyo-Hoon Park, and Hamza Kurt, _“Experimental demonstration of inverse-designed silicon integrated photonic power splitters,”_ Nanophotonics 11(20), 4581-4589 (September 2022). (IF: 7.923)
 
