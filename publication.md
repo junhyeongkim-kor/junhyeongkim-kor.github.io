@@ -11,7 +11,7 @@ If you want to have access to all of our publications (some are skipped in this 
 
 #### International
 
-- Jinhyeong Yoon, Hyeonho Yoon, Jae-Yong Kim, Junhyeong Kim, Geumbong Kang, Nam-Hyun Kwon, Hamza Kurt, and Hyo-Hoon Park, _“Demonstration of high-accuracy 3D imaging using a Si optical phased array with a tunable radiator,”_ Optics Express 31(6), 9935-9944 (March 2023). (IF: 3.833)
+- Jinhyeong Yoon, Hyeonho Yoon, Jae-Yong Kim, **Junhyeong Kim**, Geumbong Kang, Nam-Hyun Kwon, Hamza Kurt, and Hyo-Hoon Park, _“Demonstration of high-accuracy 3D imaging using a Si optical phased array with a tunable radiator,”_ Optics Express 31(6), 9935-9944 (March 2023). (IF: 3.833)
 
 - **Junhyeong Kim**, Neseli Berkay, Jae-Yong Kim, Jinhyeong Yoon, Hyeonho Yoon, Hyo-Hoon Park, and Hamza Kurt, _“Inverse design of on-chip optical response predictor enabled by deep neural network,”_ Optics Express 31(2), 2049-2060 (January 2023). (IF: 3.833)
 
