@@ -14,4 +14,5 @@ title: Career
 
 # Experiences
 ---
-##### Internship program, SK hynix, South Korea, 2018.12.-2019. 02.
+##### Internship program, SK hynix, South Korea, 2018. 12. - 2019. 02.
+##### Visiting researcher, DTU, Denmark, 2023. 10. - 2023. 11.
