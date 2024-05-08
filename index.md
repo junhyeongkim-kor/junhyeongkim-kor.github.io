@@ -2,7 +2,7 @@
 layout: page
 title: Junhyeong Kim
 subtitle: Metaphotonics Research Lab., KAIST
-cover-img: /assets/img/Background.png
+cover-img: /assets/img/Background.jpg
 ---
 
 <br/>
