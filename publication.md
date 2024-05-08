@@ -11,7 +11,7 @@ If you want to have access to all of our publications (some are skipped in this 
 
 #### International
 
-- **Junhyeong Kim**, Berkay Neseli, Jinhyeong Yoon, Jae-Yong Kim, Seokjin Hong, Hyo-Hoon Park, and Hamza Kurt, “Semi-supervised learning leveraging denoising diffusion probabilistic models for the characterization of nanophotonic devices,” (under review)
+- **Junhyeong Kim**, Berkay Neseli, Jinhyeong Yoon, Jae-Yong Kim, Seokjin Hong, Hyo-Hoon Park, and Hamza Kurt, “Semi-supervised learning leveraging denoising diffusion probabilistic models for the characterization of nanophotonic devices,” Laser and Photonics Reviews (Accepted)
 
 - Jinhyeong Yoon, **Junhyeong Kim**, Jae-Yong Kim, Hyeonho Yoon, Seokjin Hong, Berkay Neseli, Hyo-Hoon Park, and Hamza Kurt, “A highly efficient mm-scale silicon antenna for an optical phased array with single-height cladding modulation,” (under review)
 
