@@ -11,15 +11,15 @@ If you want to have access to all of our publications (some are skipped in this 
 
 #### International
 
-- **Junhyeong Kim**, Berkay Neseli, Jinhyeong Yoon, Jae-Yong Kim, Seokjin Hong, Hyo-Hoon Park, and Hamza Kurt, “Semi-supervised learning leveraging denoising diffusion probabilistic models for the characterization of nanophotonic devices,” Laser and Photonics Reviews (Accepted)
+- **Junhyeong Kim**, Young Jin Lee, Jae-Yong Kim, Jinhyeong Yoon, Hyeonho Yoon, Jong-Bum You, Sung Jin Kim, Hamza Kurt, and Hyo-Hoon Park, “High-efficiency thermo-optic control of a longitudinal radiation angle in a silicon-based optical phased array by leveraging the backside air trench structure,”_ Optics Letters 49(15), pp. 4338-4341 (July 2024).
 
-- Jinhyeong Yoon, **Junhyeong Kim**, Jae-Yong Kim, Hyeonho Yoon, Seokjin Hong, Berkay Neseli, Hyo-Hoon Park, and Hamza Kurt, “A highly efficient mm-scale silicon antenna for an optical phased array with single-height cladding modulation,” (under review)
+- **Junhyeong Kim**, Berkay Neseli, Jinhyeong Yoon, Jae-Yong Kim, Seokjin Hong, Hyo-Hoon Park, and Hamza Kurt, “Semi-supervised learning leveraging denoising diffusion probabilistic models for the characterization of nanophotonic devices,”_ Laser and Photonics Reviews 2300998 (May 2024).
 
-- Jae-Yong Kim, **Junhyeong Kim**, Jinhyeong Yoon, Seokjin Hong, Berkay Neseli, NamHyun Kwon, Jong-Bum You, Hyeonho Yoon, Hyo-Hoon Park, and Hamza Kurt, “Deep neural network-based phase calibration in integrated optical phased arrays,” Scientific Reports 13(1), pp. 19929 (November 2023)
+- Jae-Yong Kim, **Junhyeong Kim**, Jinhyeong Yoon, Seokjin Hong, Berkay Neseli, NamHyun Kwon, Jong-Bum You, Hyeonho Yoon, Hyo-Hoon Park, and Hamza Kurt, “Deep neural network-based phase calibration in integrated optical phased arrays,”_ Scientific Reports 13(1), pp. 19929 (November 2023).
 
-- Jinhyeong Yoon, Jae-Yong Kim, **Junhyeong Kim**, Seokjin Hong, Berkay Neseli, Joonyong Park, Hyo-Hoon Park, and Hamza Kurt, “Cladding modulated silicon waveguide Bragg grating with TM-polarized light for optical true time delay line,” Applied Physics Letters 123(19), pp. 191106 (November 2023)
+- Jinhyeong Yoon, Jae-Yong Kim, **Junhyeong Kim**, Seokjin Hong, Berkay Neseli, Joonyong Park, Hyo-Hoon Park, and Hamza Kurt, “Cladding modulated silicon waveguide Bragg grating with TM-polarized light for optical true time delay line,”_ Applied Physics Letters 123(19), pp. 191106 (November 2023).
 
-- Jinhyeong Yoon, Jae-Yong Kim, **Junhyeong Kim**, Hyeonho Yoon, Berkay Neseli, Hyo-Hoon Park, and Hamza Kurt, “Inverse design of a Si-based high-performance vertical-emitting meta-grating coupler on a 220 nm silicon-on-insulator platform,” Photonics Research 11(6), pp. 897-905 (March 2023).
+- Jinhyeong Yoon, Jae-Yong Kim, **Junhyeong Kim**, Hyeonho Yoon, Berkay Neseli, Hyo-Hoon Park, and Hamza Kurt, “Inverse design of a Si-based high-performance vertical-emitting meta-grating coupler on a 220 nm silicon-on-insulator platform,”_ Photonics Research 11(6), pp. 897-905 (March 2023).
 
 - Jinhyeong Yoon, Hyeonho Yoon, Jae-Yong Kim, **Junhyeong Kim**, Geumbong Kang, Nam-Hyun Kwon, Hamza Kurt, and Hyo-Hoon Park, _“Demonstration of high-accuracy 3D imaging using a Si optical phased array with a tunable radiator,”_ Optics Express 31(6), 9935-9944 (March 2023).
 
@@ -34,6 +34,10 @@ If you want to have access to all of our publications (some are skipped in this 
 ### Conference Papers
 
 #### International
+
+- **Junhyeong Kim**, Berkay Neseli, Hyo-Hoon Park, and Hamza Kurt, “Dimensionality reduction in the design domain of photonic crystal waveguides for deep neural networks by implementing transfer learning,” in CLEO-PR, 2024.
+
+- **Junhyeong Kim**, Seokjin Hong, Jae-Yong Kim, Berkay Neseli, Jinhyeong Yoon, Hyo-Hoon Park, and Hamza Kurt, “Experimental demonstration of silicon-based on-chip neuromorphic optical computing,” in SPIE Photonics West, 2024.
 
 - **Junhyeong Kim**, Jinhyeong Yoon, Jae-Yong Kim, Berkay Neseli, Hyo-Hoon Park, and Hamza Kurt, “On-chip photonic artificial intelligence accelerator,” In Advanced Photonics Congress, 2023.
 
