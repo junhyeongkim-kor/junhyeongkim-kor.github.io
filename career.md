@@ -12,7 +12,11 @@ title: Career
 ##### M.S. in Electrical Engineering, KAIST (2020.03. ~ 2022.02)
 ##### Ph. D. in Electrical Engineering, KAIST (2022.03. ~ Present)
 
-# Experiences
+# Experience
 ---
 ##### Internship program, SK hynix, South Korea, 2018. 12. - 2019. 02.
 ##### Visiting researcher, DTU, Denmark, 2023. 10. - 2023. 11.
+
+# Work Experience
+---
+##### Engineer, SK hynix, South Korea, 2025.02 - Present
