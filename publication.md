@@ -11,9 +11,13 @@ If you want to have access to all of our publications (some are skipped in this 
 
 #### International
 
-- **Junhyeong Kim**, Young Jin Lee, Jae-Yong Kim, Jinhyeong Yoon, Hyeonho Yoon, Jong-Bum You, Sung Jin Kim, Hamza Kurt, and Hyo-Hoon Park, “High-efficiency thermo-optic control of a longitudinal radiation angle in a silicon-based optical phased array by leveraging the backside air trench structure,” _Optics Letters_ 49(15), pp. 4338-4341 (July 2024).
+- **Junhyeong Kim**, Jae-Yong Kim, Jungmin Kim, Yun Hyeong, Berkay Neseli, Jong-Bum You, Joonsup Shim, Jonghwa Shin, Hyo-Hoon Park, Hamza Kurt, “Inverse design of nanophotonic devices enabled by optimization algorithms and deep learning: recent achievements and future prospects,” _Nanophotonics_ 14(2), pp. 121-151 (January 2025).
 
 - **Junhyeong Kim**, Berkay Neseli, Jinhyeong Yoon, Jae-Yong Kim, Seokjin Hong, Hyo-Hoon Park, and Hamza Kurt, “Semi-supervised learning leveraging denoising diffusion probabilistic models for the characterization of nanophotonic devices,” _Laser & Photonics Reviews_ 2300998 (May 2024).
+
+- Seokjin Hong, Jinhyeong Yoon, **Junhyeong Kim**, Berkay Neseli, Jae-Yong Kim, Hyo-Hoon Park, and Hamza Kurt, “Inverse-designed taper configuration for the enhancement of integrated 1× 4 silicon photonic power splitters,” _Nanophotonics_ 12(22), pp. 4127-4135 (September 2024).
+
+- **Junhyeong Kim**, Young Jin Lee, Jae-Yong Kim, Jinhyeong Yoon, Hyeonho Yoon, Jong-Bum You, Sung Jin Kim, Hamza Kurt, and Hyo-Hoon Park, “High-efficiency thermo-optic control of a longitudinal radiation angle in a silicon-based optical phased array by leveraging the backside air trench structure,” _Optics Letters_ 49(15), pp. 4338-4341 (July 2024).
 
 - Jae-Yong Kim, **Junhyeong Kim**, Jinhyeong Yoon, Seokjin Hong, Berkay Neseli, NamHyun Kwon, Jong-Bum You, Hyeonho Yoon, Hyo-Hoon Park, and Hamza Kurt, “Deep neural network-based phase calibration in integrated optical phased arrays,” _Scientific Reports_ 13(1), pp. 19929 (November 2023).
 
